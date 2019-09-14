@@ -1,0 +1,82 @@
+{
+  "configVersion": 1,
+  "timestamp": 1568491384529,
+  "index": "https://sjasik.github.io/engie-pasportizacia/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://sjasik.github.io/engie-pasportizacia/es2015-polyfills.aedb089b056588b515bf.js",
+        "https://sjasik.github.io/engie-pasportizacia/favicon.ico",
+        "https://sjasik.github.io/engie-pasportizacia/index.html",
+        "https://sjasik.github.io/engie-pasportizacia/main.5a3cc0800988a6c54bcc.js",
+        "https://sjasik.github.io/engie-pasportizacia/polyfills.508ec4e4d94783a9e8c7.js",
+        "https://sjasik.github.io/engie-pasportizacia/runtime.b57bf819d5bdce77f1c7.js",
+        "https://sjasik.github.io/engie-pasportizacia/styles.a92241c19f5de8ce4a9a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-128x128.png",
+        "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-144x144.png",
+        "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-152x152.png",
+        "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-192x192.png",
+        "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-384x384.png",
+        "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-512x512.png",
+        "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-72x72.png",
+        "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-96x96.png",
+        "https://sjasik.github.io/engie-pasportizacia/assets/images/color-bar.jpg",
+        "https://sjasik.github.io/engie-pasportizacia/assets/images/color-bar.svg",
+        "https://sjasik.github.io/engie-pasportizacia/assets/images/engie-logo-white.svg",
+        "https://sjasik.github.io/engie-pasportizacia/assets/images/engie-logo.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-192x192.png": "8629246eb1369f0b2b88b01a6dc84f64a9fcc894",
+    "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-512x512.png": "2b221c5a2da154facc3c66470084f94162b5fd2e",
+    "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://sjasik.github.io/engie-pasportizacia/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://sjasik.github.io/engie-pasportizacia/assets/images/color-bar.jpg": "d9bd83068ca6e2d067482d0a69a6b959a4194949",
+    "https://sjasik.github.io/engie-pasportizacia/assets/images/color-bar.svg": "5e7e22a6bbe8c924673d41719086bd7f4d61da5b",
+    "https://sjasik.github.io/engie-pasportizacia/assets/images/engie-logo-white.svg": "676dfe5bc7f5b2c2b1b1f364e6850b107901449f",
+    "https://sjasik.github.io/engie-pasportizacia/assets/images/engie-logo.svg": "62e5c4f2794cdf337a24edbce64bc6360f0b3de0",
+    "https://sjasik.github.io/engie-pasportizacia/es2015-polyfills.aedb089b056588b515bf.js": "bbeda24f668b64c6a4476b1a4f60d9655f8d3326",
+    "https://sjasik.github.io/engie-pasportizacia/favicon.ico": "c35882a18c264b905a469f0c3ea936e0bbd040d9",
+    "https://sjasik.github.io/engie-pasportizacia/index.html": "22d2eb34618efcd6fb1cc63a332fcb3f830cb5c0",
+    "https://sjasik.github.io/engie-pasportizacia/main.5a3cc0800988a6c54bcc.js": "67ed25d0b122016928d63080502e55386b6de474",
+    "https://sjasik.github.io/engie-pasportizacia/polyfills.508ec4e4d94783a9e8c7.js": "4143cc4bc0fbb59aaa962427fc23c8c7f03e07f4",
+    "https://sjasik.github.io/engie-pasportizacia/runtime.b57bf819d5bdce77f1c7.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://sjasik.github.io/engie-pasportizacia/styles.a92241c19f5de8ce4a9a.css": "ac6847b22f20b90785c8e2ddd75ad1c8e1dcd848"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
