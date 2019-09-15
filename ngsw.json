@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568557973754,
+  "timestamp": 1568565951100,
   "index": "https://pasportizacia.eu/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "https://pasportizacia.eu/es2015-polyfills.aedb089b056588b515bf.js",
         "https://pasportizacia.eu/favicon.ico",
         "https://pasportizacia.eu/index.html",
-        "https://pasportizacia.eu/main.d0b615e6519c2bfad919.js",
+        "https://pasportizacia.eu/main.e80b423c9f90e053157c.js",
         "https://pasportizacia.eu/polyfills.508ec4e4d94783a9e8c7.js",
         "https://pasportizacia.eu/runtime.b57bf819d5bdce77f1c7.js",
         "https://pasportizacia.eu/styles.a92241c19f5de8ce4a9a.css"
@@ -55,8 +55,8 @@
     "https://pasportizacia.eu/assets/images/engie-logo.svg": "62e5c4f2794cdf337a24edbce64bc6360f0b3de0",
     "https://pasportizacia.eu/es2015-polyfills.aedb089b056588b515bf.js": "bbeda24f668b64c6a4476b1a4f60d9655f8d3326",
     "https://pasportizacia.eu/favicon.ico": "c35882a18c264b905a469f0c3ea936e0bbd040d9",
-    "https://pasportizacia.eu/index.html": "8e0e9d6831f088df9e6de1dc5da0fd32323e2949",
-    "https://pasportizacia.eu/main.d0b615e6519c2bfad919.js": "1c97892837a9a749930f8ae5bfb39c6655cd0f24",
+    "https://pasportizacia.eu/index.html": "5149632e0ea574ef9f72b3643b4f1132e4de6c18",
+    "https://pasportizacia.eu/main.e80b423c9f90e053157c.js": "ad8538a385b9676fe2a5a001e75959174bbf37f0",
     "https://pasportizacia.eu/polyfills.508ec4e4d94783a9e8c7.js": "4143cc4bc0fbb59aaa962427fc23c8c7f03e07f4",
     "https://pasportizacia.eu/runtime.b57bf819d5bdce77f1c7.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://pasportizacia.eu/styles.a92241c19f5de8ce4a9a.css": "ac6847b22f20b90785c8e2ddd75ad1c8e1dcd848"
